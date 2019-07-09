@@ -1,6 +1,7 @@
 const express = require('express');
-const hbs = require('hbs');
 const path = require('path');
+const hbs = require('hbs');
+require('./config/hbs/helpers');
  
 const app = express();
 
