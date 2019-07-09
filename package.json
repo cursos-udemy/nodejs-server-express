@@ -4,6 +4,7 @@
   "description": "Primer Web Server con NodeJS",
   "main": "app.js",
   "scripts": {
+    "start": "node ./src/server",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "gwfernandez",
